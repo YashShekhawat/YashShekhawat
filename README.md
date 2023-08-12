@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yash200221@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1HpjxZQvUu6BLWnFS5OOxSO_lve2Ua3OJ](https://drive.google.com/drive/folders/1HpjxZQvUu6BLWnFS5OOxSO_lve2Ua3OJ)
+- 📄 Know about my experiences <a target="blank" href="https://drive.google.com/drive/folders/1HpjxZQvUu6BLWnFS5OOxSO_lve2Ua3OJ">Link</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
