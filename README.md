@@ -28,5 +28,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashshekhawat&show_icons=true&theme=dark&locale=en&layout=compact" alt="yashshekhawat" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashshekhawat&show_icons=true&theme=dark&locale=en" alt="yashshekhawat" /></p>
-
-<a href="https://app.daily.dev/yashshekhawat"><img src="https://api.daily.dev/devcards/c7f95481d3e94122b9ce591670e9f1e2.png?r=i4x" width="400" alt="Yash Shekhawat's Dev Card"/></a>
